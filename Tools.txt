@@ -1,0 +1,30 @@
+代码质量管理：
+	Sonarqube
+持续集成工具：
+	Jenkins
+开源数据库：
+	PostgreSQL
+代码管理：
+	Git，SVN
+文件比较：
+	BeyondCompare
+流程图及UML绘制：
+	Visio
+构建工具：
+	CMake
+调试工具：
+	GDB，Wingdb
+集成开发工具：
+	VS，Eclipse
+桌面程序开发界面库：
+	Qt,MFC,DirectUI
+终端登录工具：
+	Xshell
+界面图片制作：
+	Photoshop
+虚拟机：
+	VirtualBox, VMware
+网络诊断工具：
+	WireShark,TcpDump
+
+ 
