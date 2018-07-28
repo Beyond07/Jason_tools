@@ -1,30 +1,30 @@
-´úÂëÖÊÁ¿¹ÜÀí£º
+ä»£ç è´¨é‡ç®¡ç†ï¼š
 	Sonarqube
-³ÖÐø¼¯³É¹¤¾ß£º
+æŒç»­é›†æˆå·¥å…·ï¼š
 	Jenkins
-¿ªÔ´Êý¾Ý¿â£º
+å¼€æºæ•°æ®åº“ï¼š
 	PostgreSQL
-´úÂë¹ÜÀí£º
-	Git£¬SVN
-ÎÄ¼þ±È½Ï£º
+ä»£ç ç®¡ç†ï¼š
+	Gitï¼ŒSVN
+æ–‡ä»¶æ¯”è¾ƒï¼š
 	BeyondCompare
-Á÷³ÌÍ¼¼°UML»æÖÆ£º
+æµç¨‹å›¾åŠUMLç»˜åˆ¶ï¼š
 	Visio
-¹¹½¨¹¤¾ß£º
+æž„å»ºå·¥å…·ï¼š
 	CMake
-µ÷ÊÔ¹¤¾ß£º
-	GDB£¬Wingdb
-¼¯³É¿ª·¢¹¤¾ß£º
-	VS£¬Eclipse
-×ÀÃæ³ÌÐò¿ª·¢½çÃæ¿â£º
+è°ƒè¯•å·¥å…·ï¼š
+	GDBï¼ŒWingdb
+é›†æˆå¼€å‘å·¥å…·ï¼š
+	VSï¼ŒEclipse
+æ¡Œé¢ç¨‹åºå¼€å‘ç•Œé¢åº“ï¼š
 	Qt,MFC,DirectUI
-ÖÕ¶ËµÇÂ¼¹¤¾ß£º
+ç»ˆç«¯ç™»å½•å·¥å…·ï¼š
 	Xshell
-½çÃæÍ¼Æ¬ÖÆ×÷£º
+ç•Œé¢å›¾ç‰‡åˆ¶ä½œï¼š
 	Photoshop
-ÐéÄâ»ú£º
+è™šæ‹Ÿæœºï¼š
 	VirtualBox, VMware
-ÍøÂçÕï¶Ï¹¤¾ß£º
+ç½‘ç»œè¯Šæ–­å·¥å…·ï¼š
 	WireShark,TcpDump
 
  
